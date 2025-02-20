@@ -1,4 +1,3 @@
-package shree;
 import java.util.*;
 class TransCipher {
     public static void main(String args[]) {
