@@ -1,4 +1,3 @@
-package shree;
 import java.util.Scanner;
 class PlayfairCipher {
     private static char[][] charTable;
