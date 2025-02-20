@@ -1,4 +1,3 @@
-package shree;
 import java.util.*;
 public class RailFenceCipher {
     public static String encrypt(String text, int key) {
