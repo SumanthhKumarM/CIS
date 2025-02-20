@@ -1,4 +1,3 @@
-package shree;
 import java.util.Scanner;
 class hillCipher {
 	 /* 3x3 key matrix for 3 characters at once */
