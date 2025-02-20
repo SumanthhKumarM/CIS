@@ -1,4 +1,3 @@
-package shree;
 public class vigenereCipher {
 	 static String encode(String text, final String key) {
 	 String res = "";
